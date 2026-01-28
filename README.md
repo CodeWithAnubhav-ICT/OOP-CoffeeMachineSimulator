@@ -7,6 +7,9 @@
 
 ---
 
+## 📸 Code Screenshot
+![App Screenshot](Screenshot.png)
+
 ## 🔄 The Refactor Story (v1 vs v2)
 In **Day 15**, I built this machine using *Procedural Programming*. It worked, but the code was a single file with complex dependency on global variables.
 
